@@ -1,0 +1,13 @@
+.home {
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+
+}
+
+.homeNav {
+    display: flex;
+    justify-content: space-between;
+}
